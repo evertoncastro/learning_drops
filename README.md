@@ -11,5 +11,5 @@ A project to record all my learning process.
 
 # Sources
 
-- [Tool to learn Machine Learning](https://elitedatascience.com/primer)
+- [Tool to learn Machine Learning](https://elitedatascience.com/primer){:target="_blank"}
 
